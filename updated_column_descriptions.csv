@@ -1,0 +1,7 @@
+Column Name,Description
+Date,The date of the recorded data.
+SPX,"The Standard & Poor's 500 (S&P 500) Index value, which represents the performance of 500 large publicly traded companies in the U.S. stock market. It serves as a benchmark for overall market performance and investor sentiment."
+GLD,The price of gold (GLD ETF) on the given date.
+USO,The price of crude oil (USO ETF) on the given date.
+SLV,The price of silver (SLV ETF) on the given date.
+EUR/USD,The exchange rate of the Euro to US Dollar on the given date.
