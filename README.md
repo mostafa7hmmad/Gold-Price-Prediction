@@ -1,7 +1,6 @@
-### **Gold Price Prediction using Polynomial Regression**
+# **Gold Price Prediction using Polynomial Regression**
 ![gold](gold.jpg)
 
-### **Gold Price Prediction using Polynomial Regression**
 
 ## **📜 Project Description**  
 This project applies **Polynomial Regression** to predict **Gold Prices (GLD)** based on **Crude Oil Prices (USO) and Silver Prices (SLV)**. Using **Scikit-Learn and Matplotlib**, we preprocess data, generate polynomial features, train a regression model, and visualize predictions vs. actual values.
