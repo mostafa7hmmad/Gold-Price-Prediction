@@ -1,5 +1,8 @@
 ### **Gold Price Prediction using Polynomial Regression**
 ![gold](gold.jpg)
+
+### **Gold Price Prediction using Polynomial Regression**
+
 ## **📜 Project Description**  
 This project applies **Polynomial Regression** to predict **Gold Prices (GLD)** based on **Crude Oil Prices (USO) and Silver Prices (SLV)**. Using **Scikit-Learn and Matplotlib**, we preprocess data, generate polynomial features, train a regression model, and visualize predictions vs. actual values.
 
@@ -16,10 +19,12 @@ This project applies **Polynomial Regression** to predict **Gold Prices (GLD)** 
 ## **📁 Project Structure**  
 ```
 /Gold-Price-Prediction
-│── dataset.csv               # (Your dataset, if applicable)
-│── polynomial_regression.py   # Main model training script
-│── requirements.txt           # Python dependencies
+│── Gold-Prediction.ipynb      # Jupyter Notebook for model training
 │── README.md                  # Project documentation
+│── gld_price_data.csv         # Gold price dataset
+│── gold.jpg                   # Visualization image related to gold prices
+│── updated_column_descriptions.csv  # Column descriptions for dataset
+│── requirements.txt           # Python dependencies
 │── results/
 │   ├── model_metrics.txt      # Stored performance metrics
 │   ├── predictions.png        # Visualization of actual vs predicted values
@@ -42,7 +47,7 @@ pip install -r requirements.txt
 
 ### **3️⃣ Run the Model**  
 ```sh
-python polynomial_regression.py
+python Gold-Prediction.ipynb
 ```
 
 ---
