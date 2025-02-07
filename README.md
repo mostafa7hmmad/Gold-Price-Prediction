@@ -51,13 +51,6 @@ python Gold-Prediction.ipynb
 
 ---
 
-## **📊 Model Performance**  
-| Metric | Train Set | Test Set |
-|--------|----------|----------|
-| MAE    | **11.69** | **13.79** |
-| R² Score | **-0.2433** | (Poor Fit) |
-
-📌 **Note:** If `R² < 0`, it means the model needs improvements like **feature scaling, additional features, or hyperparameter tuning**.
 
 ---
 
